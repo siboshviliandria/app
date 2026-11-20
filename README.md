@@ -29,3 +29,5 @@ root.render(<HelloMessage name="Taylor" />);
 ```
 
 ![skillwill](https://www.skillwill.edu.ge/svgs/main-logo.svg)
+
+## git pull
